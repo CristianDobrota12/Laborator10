@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Informatie dreptunghi" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <TableView>
+            <TableRoot>
+                <TableSection Title="Laturile dreptunghiului">
+                    <EntryCell Label="Lungimea"
+                               Keyboard="Numeric"
+                               Placeholder="Introdu Lungimea"
+                               x:Name="enLungime"/>
+                    <EntryCell Label="Latimea"
+                               Keyboard="Numeric"
+                               Placeholder="Introdu Latimea"
+                               x:Name="enLatime"/>
+                    <ViewCell>
+                        <Button x:Name="bt_Calculeaza"
+                                Text="Calculeaza"
+                                Clicked="bt_Calculeaza.Clicked"/>
+                    </ViewCell>
+                </TableSection>
+                <TableSection Title="Rezultat">
+                    <ViewCell>
+                        <Label x:Name="lbRezultat"
+                               HorizontalOptions="Center"
+                               FontSize="24"
+                               TextColor="Black"/>
+                    </ViewCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </StackLayout>
+
+</ContentPage>

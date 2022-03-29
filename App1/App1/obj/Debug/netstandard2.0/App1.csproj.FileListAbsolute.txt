@@ -1,0 +1,10 @@
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\Lab215-St6\Desktop\laborator9\App1\App1\obj\Debug\netstandard2.0\App1.pdb
